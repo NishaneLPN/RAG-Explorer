@@ -1,0 +1,8 @@
+.env
+chroma_db/
+rag_venv/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+result_screenshot/
+*.pdf
